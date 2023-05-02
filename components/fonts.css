@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/tt-hoves-pro-trial');
+
+/* 
+    font principal (não é necesario declarar novamente) ja setado no arquivo root do html: font-family: 'Poppins', sans-serif; 
+    
+    font da pagina contatos (email, telefone, endereço) font-family: 'TT Hoves Pro Trial', sans-serif;
+*/
+
