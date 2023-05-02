@@ -18,10 +18,36 @@ body {
 /* ----------------------------------- */
 
 /* Alexandre */
-.home {
-
+.header {
+    text-align: center;
+    margin-top: 243px;
 }
 
+.container{
+    text-align: center;
+}
+.help > button {
+    background-color: #F3CE5E;
+    width: 210px;
+    height: 66px;
+    border-radius: 57px;
+    text-decoration: none;
+    align-items: center;
+    color: #7C4032;
+    box-shadow: 0 2px 4px #F3CE5E;(0, 0, 0, 0.2);
+    border: none;
+}
+
+.help{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 10px;
+
+    
+
+}
 
 
 
