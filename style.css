@@ -222,8 +222,14 @@ body {
 /* ----------------------------------- */
 
 /* Lucas */
-.testemunho {
-
+.testemunho--t {
+    background-color: #fef4de;
+    height: 796px;
+    width: 1903px;
+    background-image: url("components/images/background.svg");
+    margin-top: 50px;
+    margin-left: 415px;
+    margin-right: 414px;
 }
 
 
