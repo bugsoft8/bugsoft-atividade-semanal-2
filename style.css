@@ -46,10 +46,60 @@ body {
 .texto--h {
     display: flex;
     flex-direction: column;
+    width: 556px;
+    height: 373px;
+    border: 1px solid green;
+    color: #663128;
 }
 
+.titulo--h {
+    width: 556px;
+    height: 175px;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+}
 
+.h1--h {
+    margin: 0px;
+    font-size: 115px;
+    line-height: 1;
+}
+.h2--h {
+    margin: 0px;
+    font-size: 58px;
+    letter-spacing: 23.5px;
+    line-height: 1;
+}
 
+.legenda--h {
+    width: 552px;
+    height: 72px;
+    border: 1px solid blueviolet;
+}
+
+.leg--h {
+    width: 552px;
+    height: 72px;
+    margin: 0px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+}
+
+.bot1--h {
+    display: flex;
+    background-color: #F3CE5E;
+    width: 210px;
+    height: 66px;
+    border-radius: 57px;
+    justify-content: center;
+    align-items: center;
+}
+
+.textbot--h {
+    font-size: 18px;
+}
 
 
 
