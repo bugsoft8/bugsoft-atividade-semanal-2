@@ -18,44 +18,61 @@ body {
 /* ----------------------------------- */
 
 /* Alexandre */
-
-.header {
-    text-align: center;
+/*#top-img{
+    background-color: #F3CE5E;
+    width: 100vw;
+    height: 389px;
+    clip-path: path("M1903 0H0C213.262 51.2325 892.428 153.698 1903 153.698V0Z");
+}*/
+.servico--s{
+    height: 933px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     align-items: center;
-    margin-top: 243px;
-    font-size: 34px;
-    margin-block-end: 50px;
-    height: 96px;
-    top: 967px;
-    left: 796px;   
+
 }
 
-.container{
+
+.header > h1 {
+    font-weight: 900;
+    margin: 0;
+    margin-top: 67px;
+    font-size: 64px;
+    color: white;
+    /* margin-top: 67px;  */
+}
+
+.container {
     text-align: center;
     height: 554px;
-    top: 275px;
+    
 
 }
 
 
-.help > button {
+.help>button {
     background-color: #F3CE5E;
     width: 210px;
     height: 66px;
     border-radius: 57px;
     text-decoration: none;
     align-items: center;
-    color: #7C4032;
-    box-shadow: 0 2px 4px #F3CE5E;(0, 0, 0, 0.2);
+    color: #663128;
     border: none;
+    font-weight: 700;
+    font-size: 18px;
+    box-shadow: 0px 20px 40px 0px #F3CE5E33;
+
+    
 }
 
-.help{
-    display: flex;
-    flex-direction: column;
+.help {
     align-items: center;
     text-align: center;
-    margin-top: 50px; 
+    margin-bottom: 50px;
+    /* margin: 50px auto; */
+    /* margin-block-end: 50px; */
 
 }
 
@@ -155,10 +172,8 @@ body {
 
 /* ----------------------------------- */
 
-    /* Gustavo */
-.servico {
-
-}
+/* Gustavo */
+.servico {}
 
 
 
@@ -219,7 +234,7 @@ body {
 
 
 
-   
+
 
 
 
@@ -258,9 +273,8 @@ body {
 /* ----------------------------------- */
 
 /* Lucas */
-.testemunho {
+.testemunho {}
 
-}
 
 
 
@@ -331,7 +345,6 @@ body {
 
 
 
-   
 
 
 
@@ -360,81 +373,4 @@ body {
 /* ----------------------------------- */
 
 /* Gabriel */
-.contato {
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.contato {}
