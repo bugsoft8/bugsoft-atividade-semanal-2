@@ -18,13 +18,35 @@ body {
 /* ----------------------------------- */
 
 /* Alexandre */
-.home {
-
+.home--h {
+    background-color: #FEF4DE;
+    background-image: url(/components/images/background.svg);
+    width: 1903px;
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
+.main--h {
+    display: flex;
+    width: 1903px;
+    height: 537px;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}
 
+.urso--h {
+    background-image: url(/components/images/BEAR.svg);
+    width: 545px;
+    height: 537px;
+}
 
-
+.texto--h {
+    display: flex;
+    flex-direction: column;
+}
 
 
 
