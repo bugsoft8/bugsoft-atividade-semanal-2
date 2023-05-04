@@ -243,20 +243,20 @@ body {
     font-weight: 900;
     font-size: 64px;
 }
-.conteudo--te{
+.conteudo--t {
     width: 1074px;
     height: 434px;
     display: flex;
     justify-content: space-between;
 }
-.coluna_item--te {
+.coluna_item--t {
     background-color: white;
     border-radius: 30px;
     width: 512px;
     height: 192px;
     border: 1px solid #7C4032;
 }
-.coluna_item--te {
+.coluna_item--t {
     display: flex;
     flex-direction: column;
 }
@@ -287,14 +287,14 @@ body {
     margin-left: 50px;
     margin-bottom: 20px;
 }
-.coluna--te {
+.coluna--t {
     height: 434px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
 
-.btna {
+.btn--t {
     margin-bottom: 50px;
     width: 210px;
     height: 66px;
