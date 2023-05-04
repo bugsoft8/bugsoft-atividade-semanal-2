@@ -117,6 +117,7 @@ body {
 
 
 
+
 /* ----------------------------------- */
 
     /* Gustavo */
@@ -324,10 +325,100 @@ body {
 /* ----------------------------------- */
 
 /* Gabriel */
-.contato {
 
+/* body-contato */
+.contato--c {
+    background-color: rgba(255, 255, 255, 1);
+    height: 504px;
+    /* width: 1903px; */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    align-items: center;
 }
 
+/* Titulo do contato */
+.contato_titulo {
+}
+/* Fonte do titulo */
+.contato_titulo > h2 {
+    margin: 0;
+    color: rgba(124, 64, 50, 1);
+    font-size: 64px;
+    margin-top: 42px;
+    width: 422px;
+    height: 96px;
+}
+
+.contato--titulo{
+    display: flex;
+    margin-top: 0px;
+    padding-top: -10px;
+}
+
+.inputs_button{
+    margin-top: 14px;
+}
+
+
+/* Inputs no body */
+.contato_inputs{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.putin{
+     margin-top: 14px; 
+     background-color: var(--input-color);
+     border-radius: 61px;
+     border: none;
+     Width: 374px;
+     Height: 56px;
+     
+}
+
+
+/* Botao do body */
+.contato_button{
+    box-sizing: border-box;
+    border-color: brown;
+    border-radius: 50%;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+button{
+    background-color: white;
+    border: 3px solid #7C4032;
+    border-radius: 61px;
+    padding: 17px 58px 16px 58px;
+}
+
+
+
+.text_img{
+    display: flex;
+    flex-direction: column;
+    margin-top: 16px;
+    margin-left: 102px;
+ }
+
+.contato_indiv{
+    display: flex;
+    margin-top: 13px;
+}
+.contato_p{
+    display: flex;
+    margin-left: 22px;
+}
+
+footer{
+    background-color: rgba(85, 53, 45, 1);
+    height: 117px;
+    /* width: 1903px; */
+}
 
 
 
