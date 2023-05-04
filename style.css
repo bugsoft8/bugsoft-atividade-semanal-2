@@ -48,14 +48,12 @@ body {
     flex-direction: column;
     width: 556px;
     height: 373px;
-    border: 1px solid green;
     color: #663128;
 }
 
 .titulo--h {
     width: 556px;
     height: 175px;
-    border: 1px solid red;
     display: flex;
     flex-direction: column;
 }
@@ -73,9 +71,9 @@ body {
 }
 
 .legenda--h {
+    margin-top: 30px;
     width: 552px;
     height: 72px;
-    border: 1px solid blueviolet;
 }
 
 .leg--h {
@@ -87,7 +85,15 @@ body {
     font-weight: 600;
 }
 
-.bot1--h {
+.box--h {
+    margin-top: 30px;
+    display: flex;
+    width: 342px;
+    height: 96px;
+    align-items: center;
+}
+
+.botton--h {
     display: flex;
     background-color: #F3CE5E;
     width: 210px;
@@ -98,9 +104,19 @@ body {
 }
 
 .textbot--h {
+    margin: 0px;
+    display: flex;
     font-size: 18px;
 }
 
+.about--h {
+    margin-left: 50px;
+    display: flex;
+    width: 83px;
+    height: 24px;
+    line-height: 24px;
+    font-weight: 500;
+}
 
 
 
