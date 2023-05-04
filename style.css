@@ -32,15 +32,15 @@ body {
     display: flex;
     width: 1903px;
     height: 537px;
-    border: 1px solid black;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
 }
 
 .urso--h {
     background-image: url(/components/images/BEAR.svg);
     width: 545px;
     height: 537px;
+    margin-left: 45px;
 }
 
 .texto--h {
@@ -49,6 +49,7 @@ body {
     width: 556px;
     height: 373px;
     color: #663128;
+    margin-right: 44px;
 }
 
 .titulo--h {
