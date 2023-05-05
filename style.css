@@ -21,7 +21,7 @@ body {
 .home--h {
     background-color: #FEF4DE;
     background-image: url(/components/images/background.svg);
-    width: 1903px;
+    /* width: 1903px; */
     height: 900px;
     display: flex;
     justify-content: center;
