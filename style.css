@@ -25,7 +25,7 @@ body {
     height: 900px;
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
+    justify-content: space-between;
     align-items: center;
     margin: 0;
     overflow-x: hidden;
@@ -130,6 +130,11 @@ body {
 
 .borda_top--h {
     clip-path: path('M0 -38.6976C1021.19 -38.6976 1707.5 63.7675 1923 115V-274H0V-38.6976Z');
+}
+
+.borda_footer--h {
+    clip-path: path('M1923 153.698C901.807 153.698 215.503 51.2325 0 0V176H1923V153.698Z');
+    margin: 0;
 }
 
 
