@@ -192,7 +192,7 @@ body {
 .testemunho--t {
     background-color: #fef4de;
     height: 796px;
-    background-image: url("components/images/background.svg");
+    background-image: url("components/images/background_2.svg");
 
     display: flex;
     flex-direction: column;
