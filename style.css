@@ -24,14 +24,18 @@ body {
     /* width: 1903px; */
     height: 900px;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    /* justify-content: center; */
     align-items: center;
+    margin: 0;
+    overflow-x: hidden;
 }
 
 .main--h {
     display: flex;
     width: 1199px;
     height: 607px;
+    /* margin-left: 352px; */
     align-items: center;
     justify-content: center;
 }
@@ -122,6 +126,10 @@ body {
     width: 545px;
     height: 537px;
     margin-left: 44px;
+}
+
+.borda_top--h {
+    clip-path: path('M0 -38.6976C1021.19 -38.6976 1707.5 63.7675 1923 115V-274H0V-38.6976Z');
 }
 
 
