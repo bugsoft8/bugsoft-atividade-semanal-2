@@ -105,6 +105,7 @@ body {
     border-radius: 57px;
     justify-content: center;
     align-items: center;
+    font-weight: 700;
 }
 
 .textbot--h {
@@ -113,7 +114,7 @@ body {
     font-size: 18px;
 }
 
-.about--h {
+.about--h > h2{
     margin-left: 50px;
     display: flex;
     width: 83px;
